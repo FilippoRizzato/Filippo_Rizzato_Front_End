@@ -1,4 +1,0 @@
-host = localhost
-user = userr
-password = 12345
-database = rizzato_filippo_api
